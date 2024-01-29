@@ -646,7 +646,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \***********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar list = [{\n  index: \"1\",\n  address: \"https://voluble-cocada-7c22ad.netlify.app/\"\n}, {\n  index: \"2\",\n  address: \"https://lemontree030.neocities.org/\"\n}, {\n  index: \"3\",\n  address: \"https://charlene030.github.io/JapanTour/\"\n}, {\n  index: \"4\",\n  address: \"https://charlene030.github.io/0629-2.0/\"\n}, {\n  index: \"5\",\n  address: \"https://charlene030.github.io/FoodTour/\"\n}];\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (list);\n\n//# sourceURL=webpack://1130f2e-02-react/./src/works/page-address.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar list = [{\n  index: \"1\",\n  address: \"https://charlene030.github.io/F2E_election/\"\n}, {\n  index: \"2\",\n  address: \"https://lemontree030.neocities.org/\"\n}, {\n  index: \"3\",\n  address: \"https://charlene030.github.io/JapanTour/\"\n}, {\n  index: \"4\",\n  address: \"https://charlene030.github.io/resinart0828/\"\n}, {\n  index: \"5\",\n  address: \"https://charlene030.github.io/FoodTour/\"\n}];\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (list);\n\n//# sourceURL=webpack://1130f2e-02-react/./src/works/page-address.js?");
 
 /***/ }),
 
